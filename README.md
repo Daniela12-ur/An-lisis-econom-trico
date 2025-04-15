@@ -1,2 +1,2 @@
-# An-lisis-econom-trico
-El código en R studio analiza la probabilidad de participación en el mercado laboral de las mujeres en los hogares de Colombia, para el año 2024. Datos utilizados de la GEIH. 
+# Analysis Econometric 
+The code in Rstudio analyzes the probability of women participating in the labor market in Colombian households by 2024. Data used from the GEIH.
